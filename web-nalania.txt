@@ -3,3 +3,4 @@ Nalania Web
 - bisa regist untuk anggota nalania
 - database 
 - membuat forum diskusi untuk anggota nalania
+- bisa jualan merch dan bayar kas
